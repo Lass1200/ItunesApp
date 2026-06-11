@@ -1,7 +1,7 @@
 iTunes Seeker Application mobile React Native permettant de rechercher des contenus 
 via l'API publique iTunes, de consulter le détail d'un résultat et de gérer une bibliothèque
 personnelle avec système de notation. Projet réalisé dans le cadre du cours Programmation mobile
-– Partie 10 : Data (Licence 3 Pro Multimédia, Sorbonne Université).
+– 9 : Data (Licence 3 Pro projet web et mobile, Sorbonne Université).
 
 Fonctionnalités Recherche par titre, artiste ou album via l'API iTunes Search Affichage
 des résultats sous forme de liste scrollable (FlatList) Vue détail d'un élément avec 
